@@ -1,0 +1,10 @@
+# Local backup and practice files
+server_backup.py
+hello.py
+
+# VS Code local settings
+.vscode/
+
+# Python cache files
+__pycache__/
+*.pyc
